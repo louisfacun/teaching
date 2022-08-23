@@ -1,4 +1,4 @@
 | Week | Slides | Modules / Notes |
 | --- | --- | --- |
-| 0 | x | x |
-| 1 | x | x |
+| 0 - Introduction to the Course| [lecture0.pdf](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/slides/pdf/lecture0.pdf), [lecture0.pptx](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/slides/pptx/lecture0.pptx) | -- |
+| 1 - Introduction | [lecture1.pdf](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/slides/pdf/lecture1.pdf), [lecture1.pptx](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/slides/pptx/lecture1.pptx) | [week1-lesson1.pdf](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/modules/week1/week1-lesson1.pdf) |
