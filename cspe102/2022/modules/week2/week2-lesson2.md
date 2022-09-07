@@ -25,7 +25,7 @@ An intelligent system is a system - means it does have functions/modules - which
 
 ## Example - ```recommender systems```
 Recommender systems are types of intelligent systems that aimed to suggestion relevant informations to the users.
-1. **Lazada/Shopee:** Let us take an e-commerce site as an example. In an online shopping platform, have you ever noticed that if you recently `liked` or `clicked` an item say a cellphone, your feeds show items having the same or which are related to a cellphone? What is even weirder is when you purchased or even searched on this e-commerce site, these products would also show on your feeds on Facebook. 
+1. **Lazada/Shopee**: Let us take an e-commerce site as an example. In an online shopping platform, have you ever noticed that if you recently `liked` or `clicked` an item say a cellphone, your feeds show items having the same or which are related to a cellphone? What is even weirder is when you purchased or even searched on this e-commerce site, these products would also show on your feeds on Facebook. 
 
 ![Lazada](laz.png "Lazada")
 <br><br>
@@ -35,7 +35,7 @@ Recommender systems are types of intelligent systems that aimed to suggestion re
 ![Facebook](fb.png "Facebook")
 <br><br>
 
-3. **YouTube:**: Have you also ever wondered that when you start to `listen` or `watch` to a pop song on YouTube, all of the succeeding or recommended music is generally in that same genre.
+3. **YouTube**: Have you also ever wondered that when you start to `listen` or `watch` to a pop song on YouTube, all of the succeeding or recommended music is generally in that same genre.
    
 ![YouTube](yt.png "YouTube")
 <br><br>
