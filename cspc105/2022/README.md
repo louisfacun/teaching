@@ -1,3 +1,5 @@
+# CSPC 105 - Introduction to Automata Theory and Formal Languages
+
 | Week | Slides | Modules / Notes | Activity |
 | --- | --- | --- | --- |
 | 1 - Orientation and Course Syllabus | --- | --- | --- |
