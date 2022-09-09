@@ -1,3 +1,5 @@
+# CSPE 102 - Intelligent Systems
+
 | Week | Slides | Modules / Notes | Activity |
 | --- | --- | --- | --- |
 | 0 - Introduction to the Course              | [PDF](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/slides/pdf/lecture0.pdf), [PPT](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/slides/pptx/lecture0.pptx) | -- | -- |
