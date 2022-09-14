@@ -1,5 +1,5 @@
 # Lesson 3 - Alphabets, Strings and Languages
-## Alphabets
+## **Alphabets**
 `Alphabet` is a non-empty finite set of symbols.
 
 For example:
@@ -14,7 +14,7 @@ That is an example of alphabet with 26 symbols (an alphabet of `English alphabet
 $$ \Sigma_{3} = \{0, 1, 2, 3, 4, 5, 6, 7, 8, 9 \} $$
 That is an example of alphabet with ten symbols (an alphabet of `decimal numbers`).
 
-## Strings
+## **Strings**
 `String` is a finite sequence of symbols from an alphabet.
 
 Let an alphabet:
@@ -82,7 +82,7 @@ In this case, the string `z` or `bana` is a substring of `y` and also appears at
 ### **`k` copies of `w`**
 $$ w^k$$
 
-Represents the concatenation of string `w`, `k` times. For example:
+Represents the concatenation of string `w`, `k` times. For example:.
 $$ w = ab $$
 
 If `k` is equal to 1, then the string `w` is concatenated 1 time:
@@ -93,7 +93,7 @@ And so on:
 $$ w^3 = ababab $$
 $$ w^4 = abababab $$
 
-## Languages
+## **Languages**
 `Language (L)` is a set of all possible strings from an alphabet, given a condition.
 
 For example, given an alphabet:
@@ -114,9 +114,7 @@ $$ L = \{w^k | k \geq 1 \} $$
 
 L is k copies of w such that k is greater than or equal to 1.
 
-
-## Summary
-
+## **Summary**
 | Symbol/Notation | Description |
 | --- | --- |
 | $\{...\}$ | Sets |
