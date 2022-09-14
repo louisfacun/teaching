@@ -1,10 +1,25 @@
 # CSPE 102 - Intelligent Systems
 
-| Week | Slides | Modules / Notes | Activity |
+| Lesson | Slides | Modules / Notes | Activity |
 | --- | --- | --- | --- |
 | 0 - Introduction to the Course              | [PDF](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/slides/pdf/lecture0.pdf), [PPT](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/slides/pptx/lecture0.pptx) | -- | -- |
 | 1 - Overview on Artificial Intelligence | [PDF](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/slides/pdf/lecture1.pdf), [PPT](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/slides/pptx/lecture1.pptx) | [PDF](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/modules/1/lesson1.pdf), [MD](https://github.com/louisfacun/teaching/blob/master/cspe102/2022/modules/1/lesson1.md) | [PDF](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/activities/1/activity1.pdf), [MD](https://github.com/louisfacun/teaching/blob/master/cspe102/2022/activities/1/activity1.md) |
 | 2 - Overview on Intelligent Systems     | PDF, PPT | [PDF](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/modules/2/lesson2.pdf), [MD](https://github.com/louisfacun/teaching/blob/master/cspe102/2022/modules/2/lesson2.md) | [PDF](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/activities/2/activity2.pdf), [MD](https://github.com/louisfacun/teaching/blob/master/cspe102/2022/activities/2/activity2.md) |
+| 3 - Application of Intelligent Systems     | PDF, PPT | [PDF](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/modules/3/lesson3.pdf), [MD](https://github.com/louisfacun/teaching/blob/master/cspe102/2022/modules/3/lesson3.md) | PDF, MD |
+| 4 - Goals of Intelligent Systems  | -- | -- | -- |
+| 5 - Rule-based Systems | -- | -- | -- |
+| 6 - Fuzzy Expert Systems | -- | -- | -- |
+| 7 - Data Mining | -- | -- | -- |
+| 8 - Building an Intelligent Assistant | -- | -- | -- |
+| 9 - Artificial Neural Networks | -- | -- | -- |
+| 10 - Hybrid Intelligent Systems | -- | -- | -- |
+| 11 - Intelligent Systems | -- | -- | -- |
+| 12 - Knowledge Engineering | -- | -- | -- |
+| 13 - Regression | -- | -- | -- |
+| 14 - Classification | -- | -- | -- |
+| 15 - Neural Networks| -- | -- | -- |
+| 16 - Clustering | -- | -- | -- |
+| 17 | -- | -- | -- |
 
 ## File types:
 `PDF` - Downloadable and viewable offline.
