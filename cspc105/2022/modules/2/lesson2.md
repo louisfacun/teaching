@@ -36,6 +36,7 @@ $$ A = \{ 1, 2, 3, 4, 5 \} $$
 Based on the set above, we can say `1` is an element of `A`. Similary, 2 is also an element of `A`. Using notation we can write:
 
 $$ 1 \in A $$
+
 $$ 2 \in A $$
 
 ## Subset
@@ -46,11 +47,13 @@ Let set `A`:
 $$ A = \{ 1, 2, 3, 4, 5 \} $$
 
 Let set `X`:
+
 $$ X = \{ 1, 2 \} $$
 
 We can say that `X` is a subset of `A`, since the `elements` in `X` are found (exist) in `A`.
 
 What if our X is:
+
 $$ X = \{ 1, 2, 3, 4, 5, 6 \} $$
 
 This time, `X` is `not` a subset of `A`, since the `element` 6 does not exist in `A`.
@@ -82,6 +85,7 @@ For example:
 Let set `Students` and `Subjects` as:
 
 $$ Students = \{ alice, bob, carl \} $$
+
 $$ Subjects = \{ automata, intel sys \} $$
 
 Then, their `cartesian product` of `Students` and `Subjects` is:
@@ -93,9 +97,11 @@ $$ Students \times Subjects = \{ (alice, automata), (alice, intel sys), (bob, au
 Using numerical values as an example:
 
 $$ A = \{ 1, 2, 3 \} $$
+
 $$ B = \{ 10, 20, 30 \} $$
 
 Then, their cartesian product is:
+
 $$ A \times B = \{ (1, 10), (1, 20), (1, 30), (2, 10), (2, 20), (2, 30), (3, 10), (3, 20), (3, 30) \} $$
 
 ## Relations
@@ -105,22 +111,29 @@ Thus, we expect that a relation is written as:
 $$ R = \{ (...,...), (...,...) \} $$
 
 Let set `A` and `B`:
+
 $$ A = \{ 5, 2, 3 \} $$
+
 $$ B = \{ 1, 3, 2 \} $$
 
 If we want to get the relation between `A` and `B`, then the relation is defined as:
+
 $$ R \subseteq A \times B $$
 
 Where 
+
 $$ A \times B $$
+
 is the cartesian product between those two sets.
 
 ### Relationship
 But, what do we mean `that satisfy a relationship`?
 For example, we define a relationship `A` is greater than `B`:
+
 $$ A > B $$
 
 First we get their cartesian product:
+
 $$ A \times B = \{ (5, 1), (5, 3), (5, 2), (2, 1), (2, 3), (2, 2), (3, 1), (3, 3), (3, 2)\} $$
 
 Again, we say that a relation is a subset of ordered pairs (the cartesian product) that satisfy a relationship (A > B).
@@ -128,6 +141,7 @@ Again, we say that a relation is a subset of ordered pairs (the cartesian produc
 So, what are the ordered pairs in the cartesian product that satisfy the relationship `A is greater than B`?
 
 The following are the ordered pairs that satisfy the relationship, since the `first` value (5) in `first` pair (5, 1) is greater than `second` value (2).
+
 $$ (5, 1), (5, 3), (5, 2), (2, 1), (3, 1), (3, 2) $$
 
 Thus, the relation of the set `A` and `B` above is simply written as:
@@ -145,13 +159,17 @@ $$ R = \{ (5, 1), (5, 3), (5, 2), (2, 1), (3, 1), (3, 2) \} $$
 In a graph, we call the circles as `vertex` or `node`, and the lines as `edges`.
 
 Thus, in the graph above, we can represent the `vertices` as a set:
+
 $$ V = \{ 1, 2, 3 \} $$
 
 And `edge` as a `pair`. Note that we didn't say it is an `ordered` pair since, in a `undirected` graph the order does not matter. So we can represent all `edges` as a set of pairs.
+
 $$ E = \{ (1, 3), (1, 2), (2, 3) \} $$
 
 Now, formally, we can represent a graph as:
+
 $$ G = (V, E) $$
+
 Where, `V` is set of `vertices` and `E` is set of `edges`. So, to represent the graph above:
 
 $$ G = (\{ 1, 2, 3 \}, \{ (1, 3), (1, 2), (2, 3) \}) $$
