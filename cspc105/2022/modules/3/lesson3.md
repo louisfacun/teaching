@@ -4,19 +4,19 @@
 
 For example:
 
-$$ \Sigma_{1} = \{0, 1\} $$
+$$ \Sigma_{1} = \lbrace 0, 1 \rbrace $$
 
 That is an example of alphabet with two symbols (an alphabet of `binary numbers`).
 
 2nd example:
 
-$$ \Sigma_{2} = \{a, b, c, ... , x, y, z \} $$
+$$ \Sigma_{2} = \lbrace a, b, c, ... , x, y, z \rbrace $$
 
 That is an example of alphabet with 26 symbols (an alphabet of `English alphabet`).
 
 3rd example:
 
-$$ \Sigma_{3} = \{0, 1, 2, 3, 4, 5, 6, 7, 8, 9 \} $$
+$$ \Sigma_{3} = \lbrace 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 \rbrace $$
 
 That is an example of alphabet with ten symbols (an alphabet of `decimal numbers`).
 
@@ -25,7 +25,7 @@ That is an example of alphabet with ten symbols (an alphabet of `decimal numbers
 
 Let an alphabet:
 
-$$ \Sigma_{1} = \{0, 1\} $$
+$$ \Sigma_{1} = \lbrace 0, 1 \rbrace $$
 
 Therefore, the strings *0*, *1* and *001* are examples of string over the alphabet above. We can also write strings as `w`. For example:
 
@@ -37,7 +37,7 @@ $$ w = 001 $$
 
 Another example, let an alphabet:
 
-$$ \Sigma_{2} = \{a, b\} $$
+$$ \Sigma_{2} = \lbrace a, b\rbrace $$
 
 Thus, the following are strings from the second alphabet above:
 
@@ -136,11 +136,11 @@ $$ w^4 = abababab $$
 
 For example, given an alphabet:
 
-$$ \Sigma = \{0, 1\} $$
+$$ \Sigma = \lbrace 0, 1\rbrace $$
 
 With a condition: `No two consecutive 1s`, then, the language is:
 
-$$ L = \{\lambda, 0, 1, 00, 01, 10, 000, 001, 010, 100, ...\} $$
+$$ L = \lbrace \lambda, 0, 1, 00, 01, 10, 000, 001, 010, 100, ... \rbrace $$
 
 Note that, we also included `empty string` since this is also a `possible string`. Also, in the set, we won't put strings such as: `11`, `011`, `110`, `111` and so on, since all these strings contains two consecutives `1s`.
 
@@ -151,18 +151,18 @@ $$ w = ab $$
 
 Say, you have language:
 
-$$ L = \{ab, abab, ababab, abababab, ...\} $$
+$$ L = \lbrace ab, abab, ababab, abababab, ... \rbrace $$
 
 We can simply say using notation:
 
-$$ L = \{w^k | k \geq 1 \} $$
+$$ L = \lbrace w^k | k \geq 1 \rbrace $$
 
 L is k copies of w such that k is greater than or equal to 1.
 
 ## **Summary**
 | Symbol/Notation | Description |
 | --- | --- |
-| $\{...\}$ | Sets |
+| $\lbrace ... \rbrace$ | Sets |
 | $\Sigma$ | Alphabet |
 | $w$ | String |
 | $\lambda$ | Empty string |

@@ -4,7 +4,7 @@
 # What to Do
 1. Give five (5) strings (w) that can be derived from the given alphabet `Σ`: 
 
-   $$ \Sigma = \{a, b, c\}$$
+   $$ \Sigma = \lbrace a, b, c \rbrace$$
 
    *YOUR ANSWER:*
    $$ w = ? $$
@@ -26,15 +26,15 @@
    $$ bb = ? $$
 
 3. Write the language to atleast 5 members defined with the `Language notation`:
-   $$ L = \{ab^k | k \geq 3 \} $$
+   $$ L = \lbrace ab^k | k \geq 3 \rbrace $$
    *YOUR ANSWER:* 
-   $$ L = \{ ?, ?, ?, ?, ?, ...\} $$
+   $$ L = \lbrace ?, ?, ?, ?, ?, ... \rbrace $$
 
 4. Provide the `Language notation` for the given language `L`:
-   $$ L = \{xy, xyy, xyyy, xyyyy, ...\}$$ 
+   $$ L = \lbrace xy, xyy, xyyy, xyyyy, ... \rbrace$$ 
 
    *YOUR ANSWER:*
-   $$ L = \{ ? | ? \} $$
+   $$ L = \lbrace ? | ? \rbrace $$
 
 # When to Submit It
 Before next week class
