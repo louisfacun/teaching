@@ -78,7 +78,7 @@ Reversely, `yx` is:
 
 $$ yx = facunlouis $$
 
-If we concatenate an empty string some string, then that string won't change. For example:
+If we concatenate an empty string to some string, then that string won't change. For example:
 
 $$ x\lambda = x$$
 
