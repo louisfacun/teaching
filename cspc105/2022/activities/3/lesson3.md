@@ -2,7 +2,7 @@
 5 points each
 
 # What to Do
-1. Give five (5) strings (w) that can be derived from the given alphabet `Σ`: 
+1. Give five (5) strings `w` that can be derived from the given alphabet `Σ`: 
 
    $$ \Sigma = \lbrace a, b, c \rbrace$$
 
@@ -18,7 +18,7 @@
    
    $$ w = ? $$
 
-2. Given by two `w` strings:
+2. Given by two strings `a` and `b`:
    
    $$ a = automata $$
    
