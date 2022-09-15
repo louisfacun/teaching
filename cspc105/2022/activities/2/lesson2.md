@@ -1,4 +1,4 @@
-# Activity 2 - Directed Graph
+# Activity 1 - Directed Graph
 # What to Do
 Given the following directed graph:
 

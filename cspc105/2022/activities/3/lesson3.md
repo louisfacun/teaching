@@ -1,4 +1,4 @@
-# Activity 3 - Alphabets, Strings and Language Application Practice
+# Activity 2 - Alphabets, Strings and Language Application Practice
 5 points each
 
 # What to Do
