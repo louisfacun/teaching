@@ -1,4 +1,4 @@
-wake_word = "Hey Argie"
+wake_word = "Hello Baby"
 
 cmd_calc = "Open Calculator"
 cmd_browser = "Open Browser"
