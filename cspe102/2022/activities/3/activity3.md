@@ -15,6 +15,6 @@ Before next week class.
 - Follow general instructions, submit `DOC` or `PDF` only. Do not submit images such as `JPG`.
 
 # Advice
-- For question 1 and 2, remember what we are programming in our laboratory schedule.
+- For question 1 and 2, remember what we are programming in our laboratory schedule, OR you can research.
 - For question 3, avoid very long answers, short sentences are enough. But clear and concise answers are important.
 - If you have any questions, you can private message me at Facebook.
