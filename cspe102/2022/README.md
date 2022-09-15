@@ -5,7 +5,7 @@
 | 0 - Introduction to the Course              | [PDF](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/slides/pdf/lecture0.pdf), [PPT](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/slides/pptx/lecture0.pptx) | -- | -- |
 | 1 - Overview on Artificial Intelligence | [PDF](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/slides/pdf/lecture1.pdf), [PPT](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/slides/pptx/lecture1.pptx) | [PDF](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/modules/1/lesson1.pdf), [MD](https://github.com/louisfacun/teaching/blob/master/cspe102/2022/modules/1/lesson1.md) | [PDF](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/activities/1/activity1.pdf), [MD](https://github.com/louisfacun/teaching/blob/master/cspe102/2022/activities/1/activity1.md) |
 | 2 - Overview on Intelligent Systems     | PDF, PPT | [PDF](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/modules/2/lesson2.pdf), [MD](https://github.com/louisfacun/teaching/blob/master/cspe102/2022/modules/2/lesson2.md) | [PDF](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/activities/2/activity2.pdf), [MD](https://github.com/louisfacun/teaching/blob/master/cspe102/2022/activities/2/activity2.md) |
-| 3 - Application of Intelligent Systems     | PDF, PPT | [PDF](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/modules/3/lesson3.pdf), [MD](https://github.com/louisfacun/teaching/blob/master/cspe102/2022/modules/3/lesson3.md) | PDF, MD |
+| 3 - Application of Intelligent Systems     | PDF, PPT | [PDF](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/modules/3/lesson3.pdf), [MD](https://github.com/louisfacun/teaching/blob/master/cspe102/2022/modules/3/lesson3.md) | [PDF](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/activities/3/activity3.pdf), [MD](https://github.com/louisfacun/teaching/blob/master/cspe102/2022/activities/3/activity3.md) |
 | 4 - Goals of Intelligent Systems  | -- | -- | -- |
 | 5 - Rule-based Systems | -- | -- | -- |
 | 6 - Fuzzy Expert Systems | -- | -- | -- |
@@ -19,7 +19,6 @@
 | 14 - Classification | -- | -- | -- |
 | 15 - Neural Networks| -- | -- | -- |
 | 16 - Clustering | -- | -- | -- |
-| 17 | -- | -- | -- |
 
 ## File types:
 `PDF` - Downloadable and viewable offline.
