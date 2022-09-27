@@ -43,7 +43,11 @@ $$ q_0 = q_0 $$
 
 > The initial state `q0` happens to be the state `q0`.
 
-$$ F = \lbrace {\emptyset} \rbrace $$
+$$ F = \lbrace  \rbrace $$
+
+or
+
+$$ F = \emptyset $$
 
 > We didn't defined any final state in this automaton.
 
