@@ -11,14 +11,16 @@
 | 6 - Fuzzy Expert Systems | - | - | - |
 | 7 - Data Mining | - | - | - |
 | 8 - Building an Intelligent Assistant | - | - | - |
-| 9 - Artificial Neural Networks | - | - | - |
-| 10 - Hybrid Intelligent Systems | - | - | - |
-| 11 - Intelligent Systems | - | - | - |
-| 12 - Knowledge Engineering | - | - | - |
-| 13 - Regression | - | - | - |
-| 14 - Classification | - | - | - |
-| 15 - Neural Networks| - | - | - |
-| 16 - Clustering | - | - | - |
+| **9 - MIDTERM EXAM** |  |  |  |
+| 10 - Artificial Neural Networks | - | - | - |
+| 11 - Hybrid Intelligent Systems | - | - | - |
+| 12 - Intelligent Systems | - | - | - |
+| 13 - Knowledge Engineering | - | - | - |
+| 14 - Regression | - | - | - |
+| 15 - Classification | - | - | - |
+| 16 - Neural Networks| - | - | - |
+| 17 - Clustering | - | - | - |
+| **18 - FINAL EXAM** |  |  |  |
 
 ## File types:
 `PDF` - Downloadable and viewable offline.
