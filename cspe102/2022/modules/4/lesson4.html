@@ -114,15 +114,17 @@ One pitfall with defining success in an Intelligent System is that there are so 
 <p>The desired outcome of this system isn’t to block phishing sites—it is to stop abusers from getting users’ banking passwords.</p>
 <h2 id="types-of-goals">Types of Goals</h2>
 <ol>
-<li><strong>Organizational Objectives.</strong> Organizational objectives are the real reason for the Intelligent System. In a business, these might be things like revenue, profit, or the number of units sold. In a nonprofit organization, these might be trees saved, lives improved, or other benefits to society.</li>
-<li><strong>Leading Indicators.</strong> Leading indicators are a way to bridge between organizational objectives and the more concrete properties of an Intelligent System (like user outcomes and model properties). If an Intelligent System gets better, customers will probably like it more.</li>
-</ol>
+<li>
+<p><strong>Organizational Objectives.</strong> Organizational objectives are the real reason for the Intelligent System. In a business, these might be things like revenue, profit, or the number of units sold. In a nonprofit organization, these might be trees saved, lives improved, or other benefits to society.</p>
+</li>
+<li>
+<p><strong>Leading Indicators.</strong> Leading indicators are a way to bridge between organizational objectives and the more concrete properties of an Intelligent System (like user outcomes and model properties). If an Intelligent System gets better, customers will probably like it more.</p>
 <p>There are two main types of leading indicators: customer sentiment and customer engagement.</p>
 <p><strong>Customer sentiment</strong> is a measure of how your customers feel about your product. The sentiment is a fuzzy measure because users’ feelings can be fickle. It can also be very hard to measure sentiment accurately—users don’t always want to tell you exactly what you ask them to tell you. Still, swings in sentiment can be useful indicators of future business outcomes, and Intelligent Systems can certainly affect the sentiment of users who encounter them.</p>
 <p><strong>Customer engagement</strong> is a measure of how much your customers use your product. This could mean the frequency of usage. It could also mean the depth of usage, as in using all the various features your product has to offer.</p>
-<ol start="3">
-<li><strong>User Outcomes.</strong> Another approach for setting goals for Intelligent Systems is to look at the outcomes your users are getting. For example:</li>
-</ol>
+</li>
+<li>
+<p><strong>User Outcomes.</strong> Another approach for setting goals for Intelligent Systems is to look at the outcomes your users are getting. For example:</p>
 <ul>
 <li>If your system is about helping users find information, are they finding useful information efficiently?</li>
 <li>If your system is about helping users make better decisions, are they making better decisions?</li>
@@ -130,41 +132,43 @@ One pitfall with defining success in an Intelligent System is that there are so 
 <li>If your system is about optimizing the settings on a computer, are the computers it is optimizing faster?</li>
 <li>And if your system is about helping users avoid scams, are they avoiding scams?</li>
 </ul>
-<ol start="4">
-<li><strong>Model Properties</strong>. Within every Intelligent System there are concrete, direct things to optimize, for example:</li>
-</ol>
+</li>
+<li>
+<p><strong>Model Properties</strong>. Within every Intelligent System there are concrete, direct things to optimize, for example:</p>
 <ul>
 <li>The error rate of the model that identifies scams.</li>
 <li>The probability a user will have to re-toast their bread.</li>
 <li>The fraction of times a user will accept the first recommendation of what content to use.</li>
 <li>The click-through rate of the ads the system decides to show.</li>
 </ul>
+</li>
+</ol>
 <h2 id="ways-to-measure-goals">Ways to Measure Goals</h2>
 <ol>
-<li><strong>Waiting for more information.</strong> Sometimes it is impossible to tell if an action is right or wrong at the time it happens, but a few hours or days or weeks later it becomes much easier. As time passes, you’ll usually have more information to interpret the interaction. Here are some examples of how waiting might help:</li>
-</ol>
+<li>
+<p><strong>Waiting for more information.</strong> Sometimes it is impossible to tell if an action is right or wrong at the time it happens, but a few hours or days or weeks later it becomes much easier. As time passes, you’ll usually have more information to interpret the interaction. Here are some examples of how waiting might help:</p>
 <ul>
 <li>The system recommends content to the user, and the user consumes it completely—by waiting to see if the user consumes the content, you can get some evidence of whether the recommendation was good or bad.</li>
 <li>The system allows a user to type their password into a web page by waiting to see if the user logs in from eastern Europe and tries to get all their friends to install malware, you can get some evidence if the password was stolen or not.</li>
 </ul>
 <p>Waiting can be a very cheap and effective way to make a success criterion easier to measure, particularly when the user’s behavior implicitly indicates success or failure.</p>
 <p>There are a couple of downsides. First, waiting adds latency. This means that waiting might not help with optimizing or making fine-grained measurements. Second, waiting adds uncertainty. There are lots of reasons a user might change their behavior. Waiting gives more time for other factors to affect the measurement</p>
-<ol start="2">
+</li>
 <li>
 <p><strong>A/B Testing.</strong> Showing different versions of the feature/intelligence to different users can be a very powerful way to quantify the effect of the feature.</p>
 </li>
 <li>
 <p><strong>Hand Labeling.</strong> You can hire some humans to periodically examine a small number of events/interactions and tell you if they were successful or not. In many cases, this hand labeling is easy to do and doesn’t require any skill or training.</p>
-</li>
-</ol>
 <p>To hand-label interactions, the Intelligent System needs to have enough telemetry to capture and replay interactions. This telemetry must contain enough detail so a human can reliably tell what happened and whether the outcome was good or not (while preserving user privacy). This isn’t always possible, particularly when it involves having to guess what the user was trying to do, or how they were feeling while they were doing it.</p>
-<ol start="4">
-<li><strong>Asking Users.</strong> Perhaps the most direct way to figure out if something is succeeding or not is to ask the user. For example, by building feedback mechanisms right into the product:</li>
-</ol>
+</li>
+<li>
+<p><strong>Asking Users.</strong> Perhaps the most direct way to figure out if something is succeeding or not is to ask the user. For example, by building feedback mechanisms right into the product:</p>
 <ul>
 <li>The user is shown several pieces of content, selects one. The system pops up a dialog box asking if the user was happy with the choices.</li>
 <li>A self-driving car takes a user to their destination, and as the user is getting out it asks if the user felt safe and comfortable during the trip.</li>
 </ul>
+</li>
+</ol>
 
         
         
