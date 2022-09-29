@@ -7,7 +7,7 @@
 | 2 - Overview on Intelligent Systems     | PDF, PPT | [PDF](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/modules/2/lesson2.pdf), [MD](https://github.com/louisfacun/teaching/blob/master/cspe102/2022/modules/2/lesson2.md) | [PDF](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/activities/2/activity2.pdf), [MD](https://github.com/louisfacun/teaching/blob/master/cspe102/2022/activities/2/activity2.md) |
 | 3 - Application of Intelligent Systems     | PDF, PPT | [PDF](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/modules/3/lesson3.pdf), [MD](https://github.com/louisfacun/teaching/blob/master/cspe102/2022/modules/3/lesson3.md) | [PDF](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/activities/3/activity3.pdf), [MD](https://github.com/louisfacun/teaching/blob/master/cspe102/2022/activities/3/activity3.md) |
 | 4 - Goals of Intelligent Systems  | -- | [PDF](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/modules/4/lesson4.pdf), [MD](https://github.com/louisfacun/teaching/blob/master/cspe102/2022/modules/4/lesson4.md) | -- |
-| 5 - Rule-based Systems | -- | -- | -- |
+| 5 - Rule-based Systems | -- | [PDF](https://github.com/louisfacun/teaching/raw/master/cspe102/2022/modules/5/lesson5.pdf), [MD](https://github.com/louisfacun/teaching/blob/master/cspe102/2022/modules/5/lesson5.md) | -- |
 | 6 - Fuzzy Expert Systems | -- | -- | -- |
 | 7 - Data Mining | -- | -- | -- |
 | 8 - Building an Intelligent Assistant | -- | -- | -- |
