@@ -43,39 +43,39 @@ The desired outcome of this system isn’t to block phishing sites—it is to st
 1. **Organizational Objectives.** Organizational objectives are the real reason for the Intelligent System. In a business, these might be things like revenue, profit, or the number of units sold. In a nonprofit organization, these might be trees saved, lives improved, or other benefits to society.
 2. **Leading Indicators.** Leading indicators are a way to bridge between organizational objectives and the more concrete properties of an Intelligent System (like user outcomes and model properties). If an Intelligent System gets better, customers will probably like it more.
 
-There are two main types of leading indicators: customer sentiment and customer engagement. 
+    There are two main types of leading indicators: customer sentiment and customer engagement. 
 
-**Customer sentiment** is a measure of how your customers feel about your product. The sentiment is a fuzzy measure because users’ feelings can be fickle. It can also be very hard to measure sentiment accurately—users don’t always want to tell you exactly what you ask them to tell you. Still, swings in sentiment can be useful indicators of future business outcomes, and Intelligent Systems can certainly affect the sentiment of users who encounter them.
+    **Customer sentiment** is a measure of how your customers feel about your product. The sentiment is a fuzzy measure because users’ feelings can be fickle. It can also be very hard to measure sentiment accurately—users don’t always want to tell you exactly what you ask them to tell you. Still, swings in sentiment can be useful indicators of future business outcomes, and Intelligent Systems can certainly affect the sentiment of users who encounter them.
 
-**Customer engagement** is a measure of how much your customers use your product. This could mean the frequency of usage. It could also mean the depth of usage, as in using all the various features your product has to offer.
+    **Customer engagement** is a measure of how much your customers use your product. This could mean the frequency of usage. It could also mean the depth of usage, as in using all the various features your product has to offer.
 
 3. **User Outcomes.** Another approach for setting goals for Intelligent Systems is to look at the outcomes your users are getting. For example:
-- If your system is about helping users find information, are they finding useful information efficiently?
-- If your system is about helping users make better decisions, are they making better decisions?
-- If your system is about helping users find the content they will enjoy, are they finding content that they end up liking?
-- If your system is about optimizing the settings on a computer, are the computers it is optimizing faster?
-- And if your system is about helping users avoid scams, are they avoiding scams?
+   - If your system is about helping users find information, are they finding useful information efficiently?
+   - If your system is about helping users make better decisions, are they making better decisions?
+   - If your system is about helping users find the content they will enjoy, are they finding content that they end up liking?
+   - If your system is about optimizing the settings on a computer, are the computers it is optimizing faster?
+   - And if your system is about helping users avoid scams, are they avoiding scams?
 4. **Model Properties**. Within every Intelligent System there are concrete, direct things to optimize, for example:
-- The error rate of the model that identifies scams.
-- The probability a user will have to re-toast their bread.
-- The fraction of times a user will accept the first recommendation of what content to use.
-- The click-through rate of the ads the system decides to show.
+   - The error rate of the model that identifies scams.
+   - The probability a user will have to re-toast their bread.
+   - The fraction of times a user will accept the first recommendation of what content to use.
+   - The click-through rate of the ads the system decides to show.
 
 ## Ways to Measure Goals
 1. **Waiting for more information.** Sometimes it is impossible to tell if an action is right or wrong at the time it happens, but a few hours or days or weeks later it becomes much easier. As time passes, you’ll usually have more information to interpret the interaction. Here are some examples of how waiting might help:
-- The system recommends content to the user, and the user consumes it completely—by waiting to see if the user consumes the content, you can get some evidence of whether the recommendation was good or bad.
-- The system allows a user to type their password into a web page by waiting to see if the user logs in from eastern Europe and tries to get all their friends to install malware, you can get some evidence if the password was stolen or not.
+   - The system recommends content to the user, and the user consumes it completely—by waiting to see if the user consumes the content, you can get some evidence of whether the recommendation was good or bad.
+   - The system allows a user to type their password into a web page by waiting to see if the user logs in from eastern Europe and tries to get all their friends to install malware, you can get some evidence if the password was stolen or not.
 
-Waiting can be a very cheap and effective way to make a success criterion easier to measure, particularly when the user’s behavior implicitly indicates success or failure.
+    Waiting can be a very cheap and effective way to make a success criterion easier to measure, particularly when the user’s behavior implicitly indicates success or failure.
 
-There are a couple of downsides. First, waiting adds latency. This means that waiting might not help with optimizing or making fine-grained measurements. Second, waiting adds uncertainty. There are lots of reasons a user might change their behavior. Waiting gives more time for other factors to affect the measurement
+    There are a couple of downsides. First, waiting adds latency. This means that waiting might not help with optimizing or making fine-grained measurements. Second, waiting adds uncertainty. There are lots of reasons a user might change their behavior. Waiting gives more time for other factors to affect the measurement
 
 2. **A/B Testing.** Showing different versions of the feature/intelligence to different users can be a very powerful way to quantify the effect of the feature. 
    
 3. **Hand Labeling.** You can hire some humans to periodically examine a small number of events/interactions and tell you if they were successful or not. In many cases, this hand labeling is easy to do and doesn’t require any skill or training.
    
-To hand-label interactions, the Intelligent System needs to have enough telemetry to capture and replay interactions. This telemetry must contain enough detail so a human can reliably tell what happened and whether the outcome was good or not (while preserving user privacy). This isn’t always possible, particularly when it involves having to guess what the user was trying to do, or how they were feeling while they were doing it.
+    To hand-label interactions, the Intelligent System needs to have enough telemetry to capture and replay interactions. This telemetry must contain enough detail so a human can reliably tell what happened and whether the outcome was good or not (while preserving user privacy). This isn’t always possible, particularly when it involves having to guess what the user was trying to do, or how they were feeling while they were doing it.
 
 4. **Asking Users.** Perhaps the most direct way to figure out if something is succeeding or not is to ask the user. For example, by building feedback mechanisms right into the product:
-- The user is shown several pieces of content, selects one. The system pops up a dialog box asking if the user was happy with the choices.
-- A self-driving car takes a user to their destination, and as the user is getting out it asks if the user felt safe and comfortable during the trip.
+   - The user is shown several pieces of content, selects one. The system pops up a dialog box asking if the user was happy with the choices.
+   - A self-driving car takes a user to their destination, and as the user is getting out it asks if the user felt safe and comfortable during the trip.
