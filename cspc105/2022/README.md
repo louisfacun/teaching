@@ -13,12 +13,12 @@
 | 7 - DFA and NDFA Equivalence | - | - | - |
 | 8 - Finite-State Automata with Output | - | - | - |
 | **9 - MIDTERM EXAM** |  |  |  |
-| **REGULAR EXPRESSIONS AND CONTEXT-FREE GRAMMARS** |  |  |  |
+| **REGULAR EXPRESSIONS AND<br>CONTEXT-FREE GRAMMARS** |  |  |  |
 | 10 - Introduction to RegEx | - | - | - |
 | 11 - Finite Automata and RegEx Equivalence | - | - | - |
 | 12 - Introduction to Context-Free Grammar | - | - | - |
 | 13 - Derivation Trees, Parsing and Ambiguity | - | - | - |
-| **PUSHDOWN AUTOMATA AND TURING MACHINES** |  |  |  |
+| **PUSHDOWN AUTOMATA AND<br>TURING MACHINES** |  |  |  |
 | 14 - Pushdown Automata | - | - | - |
 | 15 - Non-deterministic Automata | - | - | - |
 | 16 - Turing Machine Defined | - | - | - |
