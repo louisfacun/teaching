@@ -1,4 +1,4 @@
-# Activity 5
+# Activity 6
 Imagine you are a software developer, and you have a zoologist friend.
 
 > A zoologist is a person who study animals and other wildlife.
