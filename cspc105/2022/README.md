@@ -10,7 +10,7 @@
 | **FINITE-STATE AUTOMATA** |  |  |  |
 | 5 - Deterministic Finite Automata (DFA) | - | [PDF](https://github.com/louisfacun/teaching/raw/master/cspc105/2022/modules/5/lesson5.pdf), [MD](https://github.com/louisfacun/teaching/blob/master/cspc105/2022/modules/5/lesson5.md) | - |
 | 6 - Non-Deterministic Finite Automata (NFA) | - | [PDF](https://github.com/louisfacun/teaching/raw/master/cspc105/2022/modules/6/lesson6.pdf), [MD](https://github.com/louisfacun/teaching/blob/master/cspc105/2022/modules/6/lesson6.md) | - |
-| 7 - DFA and NFA Equivalence | - | - | - |
+| 7 - DFA and NFA Equivalence | - | [PDF](https://github.com/louisfacun/teaching/raw/master/cspc105/2022/modules/7/lesson7.pdf), [MD](https://github.com/louisfacun/teaching/blob/master/cspc105/2022/modules/7/lesson7.md)  | - |
 | 8 - Finite-State Automata with Output | - | - | - |
 | **9 - MIDTERM EXAM** |  |  |  |
 | **REGULAR EXPRESSIONS AND<br>CONTEXT-FREE GRAMMARS** |  |  |  |
