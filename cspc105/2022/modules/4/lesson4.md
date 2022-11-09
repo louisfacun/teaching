@@ -1,4 +1,4 @@
-# Lesson 4 - Finite-State Automata Defined
+# Lesson 4 - Deterministic Finite Automaton (DFA)
 Finite-state automata (sometimes called a finite-state machine) is a computation model that can be implemented with hardware or software and can be 
 used to simulate sequential logic and some computer programs. Finite-state automata generate regular languages. It can be used to model problems in many 
 fields including mathematics, artificial intelligence, games, and linguistics. 
