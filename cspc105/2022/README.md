@@ -14,8 +14,8 @@
 | 8 - Finite-State Automata with Output | - | - | - |
 | **9 - MIDTERM EXAM** |  |  |  |
 | **REGULAR EXPRESSIONS AND<br>CONTEXT-FREE GRAMMARS** |  |  |  |
-| 10 - Introduction to RegEx | - | - | - |
-| 11 - Finite Automata and RegEx Equivalence | - | - | - |
+| 10 - Introduction to RegEx | [PPT](https://github.com/louisfacun/teaching/raw/master/cspc105/2022/slides/lesson9.pptx) | - | [ANSWER](https://github.com/louisfacun/teaching/raw/master/cspc105/2022/slides/lesson9-activity.pptx) |
+| 11 - Finite Automata and RegEx Equivalence | [PPT](https://github.com/louisfacun/teaching/raw/master/cspc105/2022/slides/lesson10.pptx) | - | - |
 | 12 - Introduction to Context-Free Grammar | - | - | - |
 | 13 - Derivation Trees, Parsing and Ambiguity | - | - | - |
 | **PUSHDOWN AUTOMATA AND<br>TURING MACHINES** |  |  |  |
