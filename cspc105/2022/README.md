@@ -17,7 +17,7 @@
 | 10 - Introduction to RegEx | [PPT](https://github.com/louisfacun/teaching/raw/master/cspc105/2022/slides/lesson9.pptx) | - | [ANSWER](https://github.com/louisfacun/teaching/raw/master/cspc105/2022/slides/lesson9-activity.pptx) |
 | 11 - Finite Automata and RegEx Equivalence | [PPT](https://github.com/louisfacun/teaching/raw/master/cspc105/2022/slides/lesson10.pptx) | - | - |
 | 12 - Introduction to Context-Free Grammar | [PPT](https://github.com/louisfacun/teaching/raw/master/cspc105/2022/slides/lesson11.pptx) | - | - |
-| 13 - Derivation Trees, Parsing and Ambiguity | - | - | - |
+| 13 - Derivation Trees, Parsing and Ambiguity | (https://github.com/louisfacun/teaching/raw/master/cspc105/2022/slides/lesson12.pptx) | - | - |
 | **PUSHDOWN AUTOMATA AND<br>TURING MACHINES** |  |  |  |
 | 14 - Pushdown Automata | - | - | - |
 | 15 - Non-deterministic Automata | - | - | - |
